@@ -98,3 +98,16 @@ Cell and nuclei segmentation in microscopy
 Retinal vessel segmentation
 
 Leaf disease region segmentation in agriculture datasets
+
+
+🚀 Key Features
+
+Multi-scale feature extraction
+
+Residual learning for stable training
+
+Improved skip connections
+
+Efficient parameter utilization
+
+High segmentation accuracy
